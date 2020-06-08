@@ -1,2 +1,2 @@
---extra-index-url --extra-index-url=https://test.pypi.org/simple
+--extra-index-url=https://test.pypi.org/simple
 htm.core
